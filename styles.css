@@ -1,0 +1,11 @@
+body{
+    padding-top: 56px;
+}
+Headers.jumbotron {
+    background: #007bff;
+    color: #e18282;
+    padding: 4rem 2rem;
+}
+footer{
+    background: #e18282;
+}
